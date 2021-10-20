@@ -1,4 +1,10 @@
 .idea
 com.jdojo.intro/com.jdojo.intro.iml
+com.modernjava.module/com.modernjava.module.iml
+com.modernjava.module/com.modernjava.module.client/com.modernjava.module.client.iml
+com.modernjava.module/com.modernjava.module.consumer/com.modernjava.module.consumer.iml
+com.modernjava.module/com.modernjava.module.producer/com.modernjava.module.producer.iml
+
 dist
+
 com.jdojo.intro/target
