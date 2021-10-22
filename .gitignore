@@ -5,6 +5,10 @@ com.modernjava.module/com.modernjava.module.client/com.modernjava.module.client.
 com.modernjava.module/com.modernjava.module.consumer/com.modernjava.module.consumer.iml
 com.modernjava.module/com.modernjava.module.producer/com.modernjava.module.producer.iml
 
+com.modernjava.module/com.modernjava.module.client/target/
+com.modernjava.module/com.modernjava.module.consumer/target/
+com.modernjava.module/com.modernjava.module.producer/target/
+
 dist
 
 com.jdojo.intro/target
