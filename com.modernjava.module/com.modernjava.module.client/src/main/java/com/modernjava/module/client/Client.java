@@ -1,5 +1,8 @@
 package com.modernjava.module.client;
 
+import com.modernjava.module.consumer.Consumer;
+import com.modernjava.module.producer.Producer;
+
 import java.util.concurrent.ArrayBlockingQueue;
 
 public class Client {
